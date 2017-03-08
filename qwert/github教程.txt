@@ -1,0 +1,13 @@
+1、从远程仓库克隆到本地 git clone  远程仓库地址
+
+2、本地添加需要上传的文件 
+
+3、git remote -v  查看名称
+
+4、git add 
+
+5、git commit -m “添加文件说明”
+
+6、git push 
+
+备注：dll文件需打包上传
